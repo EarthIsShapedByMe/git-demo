@@ -1,4 +1,6 @@
 hello xjn!
 hello xjn!
 hello xjn!
+
 master   Hello xjnt!
+hello xjnt    branch2!
